@@ -72,3 +72,17 @@ Here's a structured process for completing the Tableau dashboard project for "Th
    - Await evaluation and feedback from the project evaluators.
 
 By following this structured process, you can efficiently create an interactive and informative Tableau dashboard for "The Bike Haven" that meets the project requirements and objectives.
+
+# Feature Details
+
+Here's a breakdown of the files:
+
+1. **customer.csv**: Contains data related to customers.
+2. **date.csv**: Contains date-related information.
+3. **geography.csv**: Contains geographical data.
+4. **product2.csv**: Contains details about products.
+5. **productcategory.csv**: Contains product category information.
+6. **productsubcategory.csv**: Contains product subcategory information.
+7. **sales.csv**: Contains sales data.
+
+These files likely contain the necessary data for the Tableau dashboard project for "The Bike Haven." They may need to be merged and preprocessed to create the dashboard effectively.
