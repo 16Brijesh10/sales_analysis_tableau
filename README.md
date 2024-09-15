@@ -1,5 +1,5 @@
-# sales_analysis_tableauT
-task is to create a visually interactive and informative dashboard that will help me understand the sales figures better. and want to be able to see how each product category is performing, which products are selling the most, and which ones need more attention. 
+# sales_analysis_tableau
+Task is to create a visually interactive and informative dashboard that will help me understand the sales figures better. and want to be able to see how each product category is performing, which products are selling the most, and which ones need more attention. 
 
 # GOAL OF THE PROJECT
 The goal of the project is to create an interactive and informative Tableau dashboard for "The Bike Haven" that facilitates a comprehensive analysis of sales performance. This dashboard aims to provide key stakeholders, such as the owner John and sales manager Chris, with actionable insights into product performance, customer behavior, budget comparisons, and regional sales trends.
